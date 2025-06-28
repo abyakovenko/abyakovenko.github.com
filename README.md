@@ -1,13 +1,3 @@
-# abyakovenko.github.com
-This is a personal blog to record progress on my side-projects that I consider exciting.
-
----
-layout: post
-title:  "Autoregressive World Generation: Philosophy and Motivation"
-date:   2025-06-28 17:27:00 +0100
-categories: 3d-generation research-diary
----
-
 I am starting a new project aimed at 3D interactive world generation. I have a number of requirements and naive expectations for what I want such a system to achieve.
 
 ### Core Requirements
